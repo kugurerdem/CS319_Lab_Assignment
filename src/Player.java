@@ -30,7 +30,7 @@ public class Player{
 
     @Override
     public String toString(){
-        return name + " has " score + " points ";
+        return name + " has " + score + " points ";
     }
 
 }
