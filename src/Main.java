@@ -28,5 +28,7 @@ class Main{
         for(int i = 0; i < sortedList.size(); i++){
             System.out.print( sortedList.get(i) + " ");
         }
+
+        System.out.println( "\nSuccessfully reverted in Git" );
     }
 }
